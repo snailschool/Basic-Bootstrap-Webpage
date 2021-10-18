@@ -1,0 +1,15 @@
+h1{
+	color:orange;
+	font-family:serif;
+	font-style:italic
+}
+
+.row div {
+	background-color: orange;
+	border-style: solid;
+	border-color: black;
+}
+
+.nav.nav-sidebar li a {
+	  color: white;
+}
